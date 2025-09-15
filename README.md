@@ -1,0 +1,3 @@
+R code for regression modeling with regularization, where different approaches are implemented and compared using the diabetes dataset. The script performs data preprocessing, partitions the data into training and testing sets through cross-validation, and fits multiple models: including LASSO regression, Elastic Net regression, and Ordinary Least Squares (OLS). Mean squared error (MSE) values are computed to evaluate model performance, and graphical outputs illustrate coefficient paths and shrinkage effects.
+
+All work and code serve as an educational resource and are not intended as a substitute for assignments. This repository is designed for those interested in exploring statistical modeling, regularization techniques, and applied regression.
